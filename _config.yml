@@ -1,7 +1,7 @@
 # Site settings
 title: Andrew Blog
 SEOTitle: Andrew Blog
-header-img: /img/title_bg.jpg
+header-img: img/title_bg.jpg
 email: weixiao917@foxmail.com
 description: "关于爱与收获"
 keyword: "爱情, 收获"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     andrewxwei
-zhihu_username:     andrewxwei
+# weibo_username:     andrewxwei
+# zhihu_username:     andrewxwei
 github_username:    andrewxwei
-twitter_username:   andrewxwei
+# twitter_username:   andrewxwei
 #facebook_username:  andrewxwei
 #linkedin_username:  firstname-lastname-idxxxx
 
